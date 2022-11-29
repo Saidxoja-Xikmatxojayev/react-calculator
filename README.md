@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Project Preview](./src/calc-app.png)
-
+## This is <a href="https://iridescent-platypus-fb06c4.netlify.app">DEMO</a>
 ## Available Scripts
 
 In the project directory, you can run:
